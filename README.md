@@ -1,4 +1,9 @@
-**How can digital interventions such as automation and analytics improve operational efficiency, reduce operational costs, and accelerate decision-making?**
+# Digital Transformation Impact Analysis
+
+This project evaluates the impact of digital interventions on operational efficiency using a structured, hypothesis-driven approach.
+
+SQL, Python, and Power BI are used to analyze data, simulate digital improvements, and communicate insights through executive-level reporting.
+
 
 ## Project Objective
 - Quantify baseline operational inefficiencies using data
